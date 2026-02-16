@@ -2,6 +2,8 @@
 
 Visualize the structure and relationships of any GitHub repository. Enter a repo URL and get an interactive graph showing classes, functions, methods, interfaces, and how they connect.
 
+https://codescope-beige.vercel.app/
+
 ## Features
 
 - **Graph visualization** — Interactive node-based graph of code entities using React Flow
