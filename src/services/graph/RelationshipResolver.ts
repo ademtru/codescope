@@ -132,7 +132,7 @@ export class RelationshipResolver {
    * Resolve imports between files
    */
   private resolveImports(
-    entities: CodeEntity[],
+    _entities: CodeEntity[],
     files: FileContent[]
   ): Relationship[] {
     const relationships: Relationship[] = [];

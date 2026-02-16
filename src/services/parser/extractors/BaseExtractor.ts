@@ -153,7 +153,7 @@ export abstract class BaseExtractor {
   /**
    * Extract parameter type (to be overridden by language-specific extractors)
    */
-  protected extractParameterType(node: SyntaxNode): string | undefined {
+  protected extractParameterType(_node: SyntaxNode): string | undefined {
     return undefined;
   }
 }
